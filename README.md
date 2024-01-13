@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **A lemon is a cross between a sour orange and a citron. So life did not give us lemon, but don't let that stop you from making lemonade.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
