@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [genome alignment](https://github.com/4nuG/Genetics-project)
 
-- 🌱 I’m currently learning **bBuilding Predictive Models**
+- 🌱 I’m currently learning **Predictive Models**
 
 - 💬 Ask me about **Social Media Scraping**
 
