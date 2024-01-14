@@ -13,7 +13,7 @@
 - 📫 How to reach me: **Anushreeyagurung@gmail.com**
 
 - ⚡ Did you know?: **A lemon is a blend of a sour orange and a citron. Life didn't hand us lemons
-- but don't let that stop you from making lemonade. 🍋**
+  but don't let that stop you from making lemonade. 🍋**
 
 <p align="left">
 </p>
