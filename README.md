@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **Anushreeyagurung@gmail.com**
 
-- ⚡ Fun fact: **A lemon is a cross between a sour orange and a citron. So life did not give us lemon, but don't let that stop you from making lemonade.**
+- ⚡ Did you know?: **A lemon is actually a delightful blend of a sour orange and a citron. Life didn't hand us lemons; it offered us this zesty fusion! So, why not whip up some refreshing lemonade? 🍋**
 
 <p align="left">
 </p>
