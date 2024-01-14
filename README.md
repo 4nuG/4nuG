@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
 
-- 🔭 I’m currently working on [genome alignment](https://github.com/4nuG/Genetics-project)
+- 🔭 I’m currently working on: [genome alignment](https://github.com/4nuG/Genetics-project)
 
-- 🌱 I’m currently learning **Predictive Models**
+- 🌱 I’m currently learning: **Predictive Models**
 
-- 💬 Ask me about **Social Media Scraping**
+- 💬 Ask me about: **Social Media Scraping**
 
-- 📫 How to reach me **Anushreeyagurung@gmail.com**
+- 📫 How to reach me: **Anushreeyagurung@gmail.com**
 
-- ⚡ Fun fact **A lemon is a cross between a sour orange and a citron. So life did not give us lemon, but don't let that stop you from making lemonade.**
+- ⚡ Fun fact: **A lemon is a cross between a sour orange and a citron. So life did not give us lemon, but don't let that stop you from making lemonade.**
 
 <p align="left">
 </p>
