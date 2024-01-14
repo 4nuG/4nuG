@@ -1,7 +1,7 @@
 [![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://4nuG.io)
 <h1 align="center">Hi 👋, I'm Anushreeya Gurung</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
 
 
 - 🔭 I’m currently working on: [genome alignment](https://github.com/4nuG/Genetics-project)
@@ -12,9 +12,7 @@
 
 - 📫 How to reach me: **Anushreeyagurung@gmail.com**
 
-- ⚡ Did you know?: **A lemon is a blend of a sour orange and a citron.
-  Life didn't hand us lemons but don't let that stop you from making
-  lemonade. 🍋**
+- ⚡ Did you know?: **A lemon is the cross of a sour orange and a citron. Life didn't hand us lemons but don't let that stop you from making lemonade. 🍋**
 
 <p align="left">
 </p>
