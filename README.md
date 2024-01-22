@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anushreeya Gurung</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:1200/0*dI-o8H3i0w66SpK7.gif">
+![](https://hit.yhype.me/github/profile?user_id=81456513)
 
 
 - 🔭 I’m currently working on: [genome alignment](https://github.com/4nuG/Genetics-project)
